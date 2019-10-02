@@ -1,0 +1,74 @@
+html {
+
+}
+
+body {
+	width: 1200px;
+	height: 1000px;
+}
+
+table {
+	width: 100%;
+	border-top: 5px solid #00cc00;
+	border-left: 5px solid #00cc00;
+	border-bottom: 5px solid #006600;
+	border-right: 5px solid #006600;
+}
+
+th {
+	width: 8%;
+	border-right: 1px solid #00cc00;
+	border-bottom: 1px solid #00cc00;
+	border-left: 1px solid #006600;
+	border-top: 1px solid #006600;
+
+}
+
+td {
+	width: 9%;
+	border-top: 1px solid #006600;
+	border-bottom: 1px solid #006600;
+	border-left: 2.5px solid yellow;
+	border-right: 5px solid yellow;
+	box-shadow: -2.5px 0 0 0 #808000;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 25px;
+}
+
+.dag {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.info {
+	padding-top: 10px;
+}
+
+#table1 {
+	height: 100px;
+	margin-bottom: 50px;
+}
+
+#background {
+	width: 1200px;
+	height: auto;
+	background-color: #99CDFF;
+}
+
+#werkrooster {
+	height: 50px;
+	background-color: #336699;
+	color: #ffff00;
+}
+
+#tijd {
+	padding-top: 20px;
+}
+
+#emptyrow {
+	height: 23px;
+}
